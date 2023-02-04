@@ -13,4 +13,4 @@ CountVectorizer is used in this project
 Basically CountVectorizer is used to transform a given text into a vector on the basis of the frequency (count) of each word that occurs in the entire text.
 
 
-Pickle module is used in this project.
+Pickle module is used in this project
